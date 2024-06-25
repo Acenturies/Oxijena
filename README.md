@@ -5,6 +5,8 @@ Current Version: `1.0.0`
 
 Current Codename: `Timezone Teapot`
 
+Current Codenumber: `TT0`
+
 
 # Documentation:
 ## Commands:
